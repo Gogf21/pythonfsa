@@ -140,11 +140,7 @@ header{
     background-size: 90%;
     background-color: rgba(0, 0, 0, 0.897);
 }
-#druplicon{
-    position:absolute;
-    width:95%;;
-    z-index:0;
-}
+
 header p{
     color:rgba(204, 204, 204);
 }
